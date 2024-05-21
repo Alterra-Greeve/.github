@@ -1,12 +1,9 @@
 <img src="https://github.com/Alterra-Greeve/.github/assets/133726246/3a58ead2-7977-4f31-8f29-bb54e55dc34b" width="300" />
-
+# Greeve
 ## Badges
 ![Static Badge](https://img.shields.io/badge/go-documentation-blue)
 ![Static Badge](https://img.shields.io/badge/refrences-blue?logo=go&labelColor=black)
 
-
-
-# Greeve
 Greeve is an innovative app that aims to increase user awareness and participation in environmental conservation and make it easier to purchase eco-friendly environmental goods and tools. The app not only offers a platform to purchase environmental goods and tools, but also provides information on the impact of users' activities on the environment as well as how to measure and reduce that impact.
 
 ## Feature Overview
@@ -65,7 +62,11 @@ Greeve is an innovative app that aims to increase user awareness and participati
 | `description` | `string` | Deskripsi produk baru.           |
 | `image_url` | `string` | URL gambar produk baru.          |
 
-
+## Guide
+### Instalation
+```bash
+  go get -u github.com/greeve/v1
+```
 
 
 ## Foobar
