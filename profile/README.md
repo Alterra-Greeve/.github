@@ -1,4 +1,9 @@
-![svgviewer-output_1](https://github.com/Alterra-Greeve/.github/assets/133726246/3a58ead2-7977-4f31-8f29-bb54e55dc34b)
+<img src="https://github.com/Alterra-Greeve/.github/assets/133726246/3a58ead2-7977-4f31-8f29-bb54e55dc34b" width="300" />
+## Badges
+
+[[![go documentation](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)](https://img.shields.io/badge/go-documentation-blue)](https://img.shields.io/badge/go-documentation-blue
+https://img.shields.io/badge/refrences-blue?logo=go
+
 
 # Greeve
 Greeve is an innovative app that aims to increase user awareness and participation in environmental conservation and make it easier to purchase eco-friendly environmental goods and tools. The app not only offers a platform to purchase environmental goods and tools, but also provides information on the impact of users' activities on the environment as well as how to measure and reduce that impact.
@@ -28,18 +33,35 @@ Greeve is an innovative app that aims to increase user awareness and participati
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
 
-#### Admin
+#### User Add to Shooping Cart
+```http
+  post /api/carts 
+```
 
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `product_id` | `string` | **Required**. Id Product |
+
+#### User Update Item on Shooping Cart
+```http
+  put /api/carts 
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `product_id` | `integer` | Id Product |
+
+#### Admin
+#### Post Product
 ```http
   POST /api/products
 ```
 
 | Parameter   | Tipe     | Deskripsi                         |
 | :---------- | :------- | :-------------------------------- |
-| `name`      | `string` | **Wajib**. Nama produk baru.     |
-| `price`     | `number` | **Wajib**. Harga produk baru.    |
+| `name`      | `string` | **Required**. Nama produk baru.     |
+| `price`     | `integer` | **Required**. Harga produk baru.    |
 | `description` | `string` | Deskripsi produk baru.           |
-| `stock`     | `number` | Stok produk baru.                |
 | `image_url` | `string` | URL gambar produk baru.          |
 
 
