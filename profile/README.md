@@ -1,8 +1,9 @@
 <img src="https://github.com/Alterra-Greeve/.github/assets/133726246/3a58ead2-7977-4f31-8f29-bb54e55dc34b" width="300" />
-## Badges
 
-[[![go documentation](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)](https://img.shields.io/badge/go-documentation-blue)](https://img.shields.io/badge/go-documentation-blue
-https://img.shields.io/badge/refrences-blue?logo=go
+## Badges
+![Static Badge](https://img.shields.io/badge/go-documentation-blue)
+![Static Badge](https://img.shields.io/badge/refrences-blue?logo=go&labelColor=black)
+
 
 
 # Greeve
