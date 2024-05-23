@@ -2,11 +2,11 @@
 
 # Greeve
 
-![Static Badge](https://img.shields.io/badge/project-documentation-blue)
-![Static Badge](https://img.shields.io/badge/contact-contact%40greeve.store-blue?logoColor=black&labelColor=gret)
-![Static Badge](https://img.shields.io/badge/refrences-blue?logo=go&logoColor=blue&labelColor=white)
-![Static Badge](https://img.shields.io/badge/refrences-blue?logo=flutter&logoColor=blue&labelColor=white)
-![Static Badge](https://img.shields.io/badge/refrences-blue?logo=react&logoColor=blue&labelColor=white)
+[![Static Badge](https://img.shields.io/badge/project-documentation-blue)](https://api.greeve.store)
+[![Static Badge](https://img.shields.io/badge/contact-contact%40greeve.store-blue?logoColor=black&labelColor=gret)](mailto:contact@greeve.store)
+[![Static Badge](https://img.shields.io/badge/refrences-blue?logo=go&logoColor=blue&labelColor=white)](https://go.dev/doc/)
+[![Static Badge](https://img.shields.io/badge/refrences-blue?logo=flutter&logoColor=blue&labelColor=white)](https://docs.flutter.dev/)
+[![Static Badge](https://img.shields.io/badge/refrences-blue?logo=react&logoColor=blue&labelColor=white)](https://legacy.reactjs.org/docs/getting-started.html)
 
 
 
