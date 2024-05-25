@@ -1,5 +1,6 @@
+<p align="center">
 <img src="https://github.com/Alterra-Greeve/.github/assets/133726246/3a58ead2-7977-4f31-8f29-bb54e55dc34b" width="350" />
-
+</p>
 # Greeve
 
 [![Static Badge](https://img.shields.io/badge/project-documentation-blue)](https://api.greeve.store)
